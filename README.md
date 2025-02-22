@@ -30,14 +30,23 @@ Run the program:
 
 Example
 Hiding Data
+
     Choose option 1 (Hide Data).
+
     Enter the path to the cover image.
+    
     Enter the secret data to hide.
+    
     Provide an encryption key (or leave blank to generate a new key).
+    
     The steganographic image will be saved as stego_image.png.
 
 Extracting Data
+    
     Choose option 2 (Extract Data).
+    
     Enter the path to the steganographic image.
+    
     Provide the encryption key.
+    
     The extracted data will be displayed.
