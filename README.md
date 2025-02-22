@@ -1,5 +1,5 @@
 # Secure-Data-Hiding-in-Image-Using-Steganography
-# Secure Data Hiding in Image Using Steganography
+
 
 ## Overview
 This project demonstrates how to securely hide data within an image using steganography and encryption. The system uses the LSB (Least Significant Bit) method to embed data into the image and AES encryption to ensure the data remains secure. SHA-256 hashing is used to verify data integrity.
